@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 title: Shwetha Kunnam
@@ -6,5 +6,5 @@ email: side@gmail.com
 
 description : >- 
   :)
-#header_pages:
-# - about.md
+header_pages:
+ - index.md
