@@ -1,4 +1,4 @@
-theme: Lanyon
+theme: minimal-mistakes
 plugins:
   - jekyll-feed
 title: Shwetha Kunnam
