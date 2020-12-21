@@ -2,7 +2,9 @@ theme: minima
 plugins:
   - jekyll-feed
 title: Shwetha Kunnam
-email: side@gmail.com
+email: skunnam at caltech dot edu
+github_username: sidewalkill
+linkedin_username: [side](https://www.linkedin.com/in/shwetha-kunnam-bb4363195/)
 
 description : >- 
   :)
