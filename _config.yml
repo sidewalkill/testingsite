@@ -7,4 +7,5 @@ linkedin: https://www.linkedin.com/in/shwetha-kunnam-bb4363195/
 
 description : >- 
   :)
-#header_pages:
+header_pages:
+  -about.md
