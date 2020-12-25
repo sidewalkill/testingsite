@@ -1,6 +1,5 @@
 theme: minima
-plugins:
-  - jekyll-feed
+
 title: Shwetha Kunnam
 email: skunnam at caltech dot edu
 github: sidewalkill
